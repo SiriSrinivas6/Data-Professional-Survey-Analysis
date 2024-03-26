@@ -27,7 +27,7 @@ The data for this project was gathered from a survey conducted among data profes
 
 ## Visualizations
 * Stacked bar chart: Displays the average salary by job title.
-![](image)
+![salary](Screenshots/1.png)
 
 * Tree maps: Shows the distribution of professionals across different countries.
 ![](image)

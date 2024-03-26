@@ -30,7 +30,7 @@ The data for this project was gathered from a survey conducted among data profes
 ![salary](Screenshots/1.png)
 
 * Tree maps: Shows the distribution of professionals across different countries.
-![](image)
+![](Screenshots/2.png)
   
 * Stacked column chart: Illustrates the count of favorite programming languages.
 ![](image)

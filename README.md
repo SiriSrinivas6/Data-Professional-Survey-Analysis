@@ -30,17 +30,23 @@ The data for this project was gathered from a survey conducted among data profes
 ![salary](Screenshots/1.png)
 
 * Tree maps: Shows the distribution of professionals across different countries.
-![]()
+![](Screenshots/2.png)
   
 * Stacked column chart: Illustrates the count of favorite programming languages.
-![](Screenshots/2.png)
+![](Screenshots/3.png)
  
 * Donut chart: Represents the count of data professionals.
-![](image)
+![](Screenshots/4.png)
   
-* Gauge charts: Visualizes the percentage of professionals happy with their work/life balance and salary.
-![](image)
+* Gauge charts: Visualizes the percentage of professionals happy with their work/life balance.
+![](Screenshots/5.png)
+
+Gauge charts: Visualizes the percentage of professionals happy with their salary.
+![](Screenshots/6.png)
  
 ## Final Report Dashboard
 A comprehensive report summarizing the findings and visualizations of the Data Professional Survey project is available. It provides insights into various aspects of data professionals' lives and preferences.
-![](image)
+![](Screenshots/7.png)
+
+Contributors
+Siri S

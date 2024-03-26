@@ -48,5 +48,5 @@ Gauge charts: Visualizes the percentage of professionals happy with their salary
 A comprehensive report summarizing the findings and visualizations of the Data Professional Survey project is available. It provides insights into various aspects of data professionals' lives and preferences.
 ![](Screenshots/7.png)
 
-Contributors
+## Contributors
 Siri S
